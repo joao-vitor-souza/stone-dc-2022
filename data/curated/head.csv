@@ -1,0 +1,6 @@
+contrato_id,status_contrato,dt_vencimento,dt_contrato,dt_desembolso,vlr_desembolsado,vlr_pgto_realizado,juros_mes,flag_transacao,perc_retencao,tipo_empresa,estado,subsegmento,segmento
+356c02706c8e74b15004bb5964ade6bb,Settled,2020-12,2020-06,2020-06,22686.57,0.0,0.10788,0,0.24,PF,PB,Educação,Serviços recorrentes
+356c02706c8e74b15004bb5964ade6bb,Settled,2020-12,2020-06,2020-06,22686.57,0.0,0.10788,1,0.24,PF,PB,Educação,Serviços recorrentes
+356c02706c8e74b15004bb5964ade6bb,Settled,2020-12,2020-06,2020-06,22686.57,0.0,0.10788,1,0.24,PF,PB,Educação,Serviços recorrentes
+356c02706c8e74b15004bb5964ade6bb,Active,2020-12,2020-06,2020-06,22686.57,0.0,0.10788,0,0.24,PF,PB,Educação,Serviços recorrentes
+356c02706c8e74b15004bb5964ade6bb,Settled,2020-12,2020-06,2020-06,22686.57,0.0,0.10788,0,0.24,PF,PB,Educação,Serviços recorrentes
